@@ -11,4 +11,3 @@
 
 <!-- background image -->
 
-![](https://i.pinimg.com/originals/62/6a/56/626a56b75c0c71506461db72dcf516da.jpg)
