@@ -1,3 +1,3 @@
-# azeronsrd.github.io
+# Bienvenue en Azeron
 
-Azeron SRD website
+Lorem ipsum dolor si amet.
