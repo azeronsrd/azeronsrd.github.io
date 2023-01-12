@@ -9,4 +9,6 @@
 [Accueil](#main)
 [LinkTree](www.linktr.ee/azeron_beta)
 
+
+<!-- background image --> 
 ![](bg.png)
