@@ -25,7 +25,7 @@
   - [Côte d'Airain](regions/cotedairain.md)
   - [Dubrie](regions/dubrie.md)
   - [Baie d'Emeraude](regions/baiedemeraude.md)
-- [Factions]()
+- [Factions](factions.md)
   - [Empire Braniésien](factions/braniesie.md)
   - [Triumvirat d'Aiontos](factions/aiontos.md)
   - [Alliance Fenderusienne](factions/fenderus.md)
