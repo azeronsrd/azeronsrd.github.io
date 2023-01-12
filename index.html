@@ -47,15 +47,20 @@
   --search-input-background-color: orange ;
   --search-input-color: white ;
   --pagination-chevron-stroke: white;
-  body {
-    .pagination-item-label svg {
-        color: white;
-        height: var(--pagination-chevron-height);
-        stroke: var(--pagination-chevron-stroke);
-        stroke-linecap: var(--pagination-chevron-stroke-linecap);
-        stroke-linejoin: var(--pagination-chevron-stroke-linecap);
-        stroke-width: var(--pagination-chevron-stroke-width);
     }
+  /* Plugin: Pagination
+============================================================================= */
+:root {
+    --pagination-border-top            : 1px solid var(--mono-tint2);
+    --pagination-chevron-height        : 0.8em;
+    --pagination-chevron-stroke        : white;
+    --pagination-chevron-stroke-linecap: round;
+    --pagination-chevron-stroke-width  : 1px;
+    --pagination-label-color           : ;
+    --pagination-label-font-size       : var(--font-size-s);
+    --pagination-title-color           : ;
+    --pagination-title-font-size       : var(--font-size-l);
+}
   }
 
 </style>
