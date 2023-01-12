@@ -15,6 +15,7 @@
   - [Peuples d'Azeron](race.md)
 - [Pseudomagie](pseudomagie.md)
   - [Impulsions et Intuitions](impulsion.md)
+  - [Les Ferrites](ferrites.md)
 - [Equipement](equipement.md)
 - [Bestiaire](bestiaire.md)
 - [Histoire d'Azeron](histoire.md)
