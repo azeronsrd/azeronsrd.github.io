@@ -1,4 +1,4 @@
-- [Accueil](accueil.md)
+- [Accueil](home.md)
 - [Découvrir Azeron](discovery.md)
 - [Création de Personnages](persos.md)
   - [Classes](classes.md)
