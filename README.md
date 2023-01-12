@@ -1,3 +1,3 @@
 # Bienvenue en Azeron
 
-Lorem ipsum dolor si amet.
+Lorem ipsum dolor sit amet.
