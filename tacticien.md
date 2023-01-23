@@ -56,7 +56,7 @@ ___
 
 ##### Tacticien
 | Niveau | Bonus Maîtrise | Traits |
-|:---:|:---:|:---|:---:|:---:|
+|:---:|:---:|:---|
 | 1er | +2 | Esprit Tactique, Expert du Champ de Bataille |
 | 2e | +2 | Vigilance Intangible, Tacticien Brillant |
 | 3e | +2 | Stratégie de Terrain |
