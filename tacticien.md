@@ -1,7 +1,7 @@
 
 # Tacticien
 
-L'enjeu de la guerre est le plus  *dramatique qui soit. Des hommes et des femmes, avec leur histoire, leur coeur et leur avenir propres, mettent leur vie dans la balance de pouvoirs qui les dépassent. Il est de la responsabilité du tacticien de faire que ce potentiel ne soit pas gâché, que ces êtres de grande valeur que sont les soldats ne soient pas réduits à l'état de chair à canon. Pour cela, le tacticien doit disposer d'un esprit agile et d'un oeil sagace, capable de détecter mieux que quiconque les pièges tendus par le plus perfide des adversaires: le champs de bataille.* 
+*L'enjeu de la guerre est le plus dramatique qui soit. Des hommes et des femmes, avec leur histoire, leur coeur et leur avenir propres, mettent leur vie dans la balance de pouvoirs qui les dépassent. Il est de la responsabilité du tacticien de faire que ce potentiel ne soit pas gâché, que ces êtres de grande valeur que sont les soldats ne soient pas réduits à l'état de chair à canon. Pour cela, le tacticien doit disposer d'un esprit agile et d'un oeil sagace, capable de détecter mieux que quiconque les pièges tendus par le plus perfide des adversaires: le champs de bataille.* 
 
 
 <p align="right"> 
