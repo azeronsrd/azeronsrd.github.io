@@ -2,7 +2,7 @@
 
 *J' ai passé les vingt dernières années à vagabonder sur ces terres, j'ai vu tout ce qui pouvait être vu. Je sais où les ténèbres rôdent, où trouver la satiété, la sécurité et la richesse. J'ai combattu de nombreux malfrats, abattu de terribles bêtes et secouru des voyageurs égarés. De nombreux hommes avec une famille ne seraient plus de ce monde si je n'avais pas été là pour les aider. Pourtant, lorsque j'arrive en ville et demande de l'aide, tout ce qu'ils voient est un pauvre homme sans-abri et sans le sou. Voilà pourquoi je déteste ces lieux.* 
 
-<p style="text-align: right;">Vasileios, Voyageur Oublié</p>
+<p style="align: right;">Vasileios, Voyageur Oublié</p>
 
 
 Vagabonds, guardiens, explorateurs, les voyageurs viennent tous d'horizons essentiellement différents, et sont motivés par des desseins uniques: chacun d'entre eux est différent, et aucune structure ne les unit. Les Voyageurs ne se considèrent souvent comme redevables à personne et bien qu'ils puissent respecter les grandes figures d'autorité, ils ne le font généralement pas. Un voyageur ne s'incline ainsi que devant ceux qu'il estime digne du plus grand des respects. 
